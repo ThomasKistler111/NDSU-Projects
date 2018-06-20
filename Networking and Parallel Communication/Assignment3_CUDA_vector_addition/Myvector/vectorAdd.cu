@@ -1,4 +1,8 @@
-
+/*
+Assignment 3
+Thomas Kistler
+10/20/17
+*/
 
 #include <stdio.h>
 
