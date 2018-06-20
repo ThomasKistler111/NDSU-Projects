@@ -1,0 +1,10 @@
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\assignment3_kistler.dll.config
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\assignment3_kistler.dll
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\assignment3_kistler.pdb
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\obj\Debug\assignment3_kistler.csprojResolveAssemblyReference.cache
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\obj\Debug\assignment3_kistler.dll
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\obj\Debug\assignment3_kistler.pdb
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\EntityFramework.dll
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\EntityFramework.SqlServer.dll
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\EntityFramework.xml
+C:\Users\tomki_000\Documents\Modern Software Development\ASSIGNMENT#3\assignment3_kistler\assignment3_kistler\bin\EntityFramework.SqlServer.xml
